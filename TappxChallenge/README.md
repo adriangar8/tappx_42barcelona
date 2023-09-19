@@ -1,3 +1,5 @@
+This project aims to assign a set of videos to each article based on its context.
+
 1. Introduction:
 
 In this Google Colab script, the user will find an algorithm which pairs certain articles with a given video based on their corresponding similarity. The final result will be given in a json file which will have the following format: 
