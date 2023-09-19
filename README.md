@@ -1,5 +1,7 @@
 # tappx_42barcelona
 
+Below the description of the project which won the competition proposed by Tappx can be seen:
+
 1. Introduction:
 
 In this Google Colab script, the user will find an algorithm which pairs certain articles with a given video based on their corresponding similarity. The final result will be given in a json file which will have the following format: 
